@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiarui Du
+title                    : "Jiarui Du"
 title_separator          : "-"
 name                     : &name "Jiarui Du"
-description              : "drug discovery
+description              : "drug discovery"
 url                      : "https://dujiarui2003.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -134,7 +134,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : “”
 facebook:
   username               :
   app_id                 :
